@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: medibot
+Version: 0.0.0
+Author: jay penshanwar
+Author-email: jaypenshanwar1812@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: streamlit
+Requires-Dist: transformers
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
